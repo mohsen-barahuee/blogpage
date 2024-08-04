@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Plex-medium";
+    src: url(./fonts/IBMPlexMono-Medium.ttf);
+  }
+  @font-face {
+    font-family: "Plex-regular";
+    src: url(./fonts/IBMPlexMono-Regular.ttf);
+  }
+  @font-face {
+    font-family: "ubuntu-regular";
+    src: url(./fonts/Ubuntu-Regular.ttf);
+  }
+  @font-face {
+    font-family: "ubuntu-medium";
+    src: url(./fonts/Ubuntu-Medium.ttf);
+  }
+  @font-face {
+    font-family: "ubuntu-light";
+    src: url(./fonts/Ubuntu-Light.ttf);
+  }
+}
+
+@layer components {
+  .about-me {
+    background-image: url(/public/images/home/Aboutme.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .skill-section {
+    background-image: url(/public/images/home/Skills.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .circle {
+    width: 15px;
+    height: 15px;
+    background-color: #12f7d6;
+    border-radius: 100%;
+  }
+  .works-section {
+    background-image: url(../public/images/home/Works.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+body {
+  background-color: #292f36;
+}
+
+@layer utilities {
+  .box-shadow {
+    box-shadow: -5px -5px 3px #12f7d6;
+  }
+}
