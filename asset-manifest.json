@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/blogpage/static/css/main.147bc9e2.css",
+    "main.js": "/blogpage/static/js/main.76a51541.js",
+    "static/media/Aboutme.png": "/blogpage/static/media/Aboutme.77c9b3931e4f5d346aa4.png",
+    "static/media/Skills.png": "/blogpage/static/media/Skills.a108b826ccbab2af1a93.png",
+    "static/media/Ubuntu-Light.ttf": "/blogpage/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
+    "static/media/Works.png": "/blogpage/static/media/Works.fa1b82d7807518434af0.png",
+    "static/media/Ubuntu-Regular.ttf": "/blogpage/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/blogpage/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/IBMPlexMono-Medium.ttf": "/blogpage/static/media/IBMPlexMono-Medium.e44b6da17070f5fecd5b.ttf",
+    "static/media/IBMPlexMono-Regular.ttf": "/blogpage/static/media/IBMPlexMono-Regular.1509e8d24f8562f776e4.ttf",
+    "index.html": "/blogpage/index.html",
+    "main.147bc9e2.css.map": "/blogpage/static/css/main.147bc9e2.css.map",
+    "main.76a51541.js.map": "/blogpage/static/js/main.76a51541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147bc9e2.css",
+    "static/js/main.76a51541.js"
+  ]
+}
